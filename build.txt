@@ -1,0 +1,3 @@
+displayName = Blood Moon Mod
+author = fryguythe777th, AndreTheSadCat, Sylvium, Triangle
+version = 0.1
